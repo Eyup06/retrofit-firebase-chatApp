@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139025885053",
+    "project_id": "chatapp-8e8e8",
+    "storage_bucket": "chatapp-8e8e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139025885053:android:5796cbd69a4f370a358e14",
+        "android_client_info": {
+          "package_name": "com.eyupyilmaz.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcg2melqwq9YokHlDAjH2H2ftGxkhSkSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
